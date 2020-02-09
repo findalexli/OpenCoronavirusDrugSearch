@@ -18,25 +18,23 @@ We would like to reproduce a knowledge graph to recommend approved drugs, in a c
 
 To get started to construct the complex relationships between compounds, genes, diseases an proteins, we need to identify soruces of raw data. 
 
-Gene Ontology
-PubMed
-![Drugbank](drugbank.ca)  
-![Pubtator](https://www.ncbi.nlm.nih.gov/research/pubtator)
+Candidates
+[Drugbank](drugbank.ca)  
+[Pubtator](https://www.ncbi.nlm.nih.gov/research/pubtator)
 
-Text-mined data can be visually represented like the following
-![Image3](https://miro.medium.com/max/1596/1*pDfI_Z3PZW5y_cbM5EaEDw.gi)
 
-### Stpes 2. Normalizing raw data
-Grakn, an open source graph database utilises the entity-relationship model to group each concept into either an entity, attribute, or relationship. This means that all we have to do is to map each concept to a schema concept type, and recognize the relationships between them. 
+### Steps 2. Normalizing raw data
+Grakn, a open source graph database utilises the entity-relationship model to group each concept into either an entity, attribute, or relationship. This means that all we have to do is to map each concept to a schema concept type, and recognize the relationships between them. 
 
+Reference
  https://blog.grakn.ai/drug-discovery-knowledge-graphs-46db4212777c 
 
 ### Working progress, please share your thought either by submitting a pull request or a issue. 
 
-TODO 
-1. Curate a corpus from Pubmed abstracts(Reporting to Alex Li) 
-1.1 Identify keywords to extracting Pubmed articles (Protein mentioned in Benevelent AI's graph..., anything else? ) 
-1.2 Download the abstracts using Pubtator API (sample code is ready to be uploaded soon) 
+TODO list 
+1. Curate a corpus from Pubmed abstracts(Reporting to Alex Li), identify keywords to extracting Pubmed articles (Protein mentioned in Benevelent AI's graph..., anything else? )and download the abstracts using Pubtator API (sample code is ready to be uploaded soon) 
 
 
 2. Search for a compound-compound similarity database and how to ingest it (Reporting to Lan Gao)
+
+3. For anyone looking at this page, if you see any thing missing or if you like to help, please do! You can submit pull request or raising a issue. 
