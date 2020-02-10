@@ -1,6 +1,6 @@
 # OpenCoronavirusDrugSearch
 Open-source search for approved drugs for treatment of Coronavirus 
-
+![Image0](https://miro.medium.com/max/2800/1*uC40oYHy1rF1ZoXP0piBvw.jpeg)
 ## Motivation: 
 Given the scale and spread of the coronavirus breakout,  there is a immediate and urgent need for medicines which does not exist for this virus yet. Besides’ Gilead’s clinical trial of their drug, BenevolentAI has recently published this article on [Lacent](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30304-4/fulltext?rss=yes#articleInformation). They used their company’s own knowledge graph, curated originally from scientific literature, and identified baricitinib as a suggested potential treatment. 
 ![Image](https://els-jbs-prod-cdn.literatumonline.com/cms/attachment/8d2d80c6-d53e-4123-9877-5c64dda88249/gr1.jpg)
