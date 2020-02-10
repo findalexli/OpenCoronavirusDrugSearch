@@ -18,8 +18,8 @@ We would like to reproduce a knowledge graph to recommend approved drugs, in a c
 
 To get started to construct the complex relationships between compounds, genes, diseases an proteins, we need to identify soruces of raw data. 
 
-Candidates
-[Drugbank](drugbank.ca)  
+Candidates: 
+[Drugbank](https://www.drugbank.ca)  
 [Pubtator](https://www.ncbi.nlm.nih.gov/research/pubtator)
 
 
